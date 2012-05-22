@@ -8,3 +8,8 @@ listAllChannels.py
 
 listAllPackages.py
 	- Allows you to list all the packages from a particular channel from a spacewalk server
+
+validateChecksums.py
+	- Validates package checksums between two channels across two different servers. The idea behind this script is to ensure that your channels are syncing correctly.
+
+
