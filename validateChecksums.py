@@ -2,7 +2,7 @@
 
 # This script ideally will validate checksums of packages between two servers.
 # I find this particularly useful to run from time to time to find out which 
-# packages on my source (or test) spacwealk server don't match what i have in production!
+# packages on my source (or test) spacewalk server don't match what i have in production!
 # -h will automatically print the help/usage information
 
 import sys, getpass, xmlrpclib,socket
